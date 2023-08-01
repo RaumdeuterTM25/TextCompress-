@@ -13,7 +13,7 @@
 
 - [x] [https://github.com/RaumdeuterTM25/TextCompress-](https://github.com/RaumdeuterTM25/TextCompress-)
 
-- [x] [https://rococo-daifuku-6df5e1.netlify.app/](https://rococo-daifuku-6df5e1.netlify.app/)
+- [x] [https://rococo-daifuku-6df5e1.netlify.app/](https://deuter-compression.netlify.app/)
 
 
 ## About this application:
